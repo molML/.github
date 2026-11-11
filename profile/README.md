@@ -1,6 +1,6 @@
 ![Molecular Machine Learning](banner.png)
 
-🌐 [molecularmachinelearning.com](https://molecularmachinelearning.com/)
+🌐 [molecularmachinelearning.com](https://molecularmachinelearning.com/) · [LinkedIn](https://www.linkedin.com/company/molml)
 
 We develop AI methods for drug discovery at the [Eindhoven University of Technology](https://www.tue.nl/), bringing together chemistry, biology and machine learning. We believe in open and reproducible research, so the code behind our papers is shared here.
 
