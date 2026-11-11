@@ -6,10 +6,11 @@ We develop AI methods for drug discovery at the [Eindhoven University of Technol
 
 **Some examples of what we do**
 - [ACER](https://github.com/molML/acer): generalizable protein–ligand co-folding · [NeurIPS 2026](https://doi.org/10.64898/2026.06.02.728568)
-- [JointMolecularModel](https://github.com/molML/JointMolecularModel): estimating how "unfamiliar" a molecule is to a model · [Nature Machine Intelligence](https://www.nature.com/articles/s42256-026-01216-w)
-- [MoleculeACE](https://github.com/molML/MoleculeACE): benchmark ML models on activity cliffs
-- [peptidy](https://github.com/molML/peptidy): peptide processing for machine learning
-- [ChemLint](https://github.com/molML/ChemLint): MCP server that lets LLMs handle molecular data
-- [molforge](https://github.com/molML/molforge): molecular data curation and conformer generation
+- [S4 for de novo design](https://github.com/molML/s4-for-de-novo-drug-design): chemical language modeling with structured state space models · [Nature Communications](https://www.nature.com/articles/s41467-024-50469-9)
+- [JointMolecularModel](https://github.com/molML/JointMolecularModel): deep learning at the edge of chemical space, spotting out-of-distribution molecules · [Nature Machine Intelligence](https://www.nature.com/articles/s42256-026-01216-w)
+- [Active learning for self-driving labs](https://github.com/molML/activeML-navigation-of-condensate-phases): automated navigation of condensate phase behavior · [Nature Communications](https://doi.org/10.1038/s41467-025-64617-2)
+- [MoleculeACE](https://github.com/molML/MoleculeACE): benchmark ML models on activity cliffs · [J. Chem. Inf. Model.](https://doi.org/10.1021/acs.jcim.2c01073)
+- [ChemLint](https://github.com/molML/ChemLint): MCP server that lets LLMs handle molecular data · [J. Chem. Inf. Model.](https://doi.org/10.1021/acs.jcim.6c00638)
+- [molforge](https://github.com/molML/molforge): molecular data curation and conformer generation · [ChemRxiv](https://doi.org/10.26434/chemrxiv.15006508/v1)
 
 Browse [all repositories](https://github.com/molML?tab=repositories) for the code of our papers.
