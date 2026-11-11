@@ -17,7 +17,7 @@ We develop AI methods for drug discovery at the [Eindhoven University of Technol
 **Molecular benchmarks and systematic evaluations**
 - [MoleculeACE](https://github.com/molML/MoleculeACE): exposing the limitations of molecular ML with activity cliffs · [J. Chem. Inf. Model.](https://doi.org/10.1021/acs.jcim.2c01073)
 - [CycPepNet](https://github.com/molML/CycPepNet): comparing molecular representations and ML models on cyclic peptides · [ChemRxiv](https://doi.org/10.26434/chemrxiv.15011871/v1)
-- [MolFaith](https://github.com/molML/MolFaith): explaining what matters, faithfulness of explainable AI in molecular deep learning · [ChemRxiv](https://doi.org/10.26434/chemrxiv.10001594/v1)
+- [MolFaith](https://github.com/molML/MolFaith): assessing faithfulness of explainable AI in molecular deep learning · [ChemRxiv](https://doi.org/10.26434/chemrxiv.10001594/v1)
 
 **Active learning**
 - [Traversing chemical space](https://github.com/molML/traversing_chem_space): active deep learning for low-data drug discovery · [Nature Computational Science](https://doi.org/10.1038/s43588-024-00697-2)
