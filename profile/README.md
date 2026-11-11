@@ -14,13 +14,15 @@ We develop AI methods for drug discovery at the [Eindhoven University of Technol
 - [MolForge](https://github.com/molML/molforge): reproducible molecular datasets at speed and scale · [J. Chem. Inf. Model. (accepted)](https://doi.org/10.26434/chemrxiv.15006508/v1)
 - [peptidy](https://github.com/molML/peptidy): peptide processing for machine learning · [Bioinformatics Advances](https://doi.org/10.1093/bioadv/vbaf058)
 
-**Molecular benchmarks**
+**Molecular benchmarks and systematic evaluations**
 - [MoleculeACE](https://github.com/molML/MoleculeACE): exposing the limitations of molecular ML with activity cliffs · [J. Chem. Inf. Model.](https://doi.org/10.1021/acs.jcim.2c01073)
 - [CycPepNet](https://github.com/molML/CycPepNet): comparing molecular representations and ML models on cyclic peptides · [ChemRxiv](https://doi.org/10.26434/chemrxiv.15011871/v1)
+- [MolFaith](https://github.com/molML/MolFaith): explaining what matters, faithfulness of explainable AI in molecular deep learning · [ChemRxiv](https://doi.org/10.26434/chemrxiv.10001594/v1)
 
 **Active learning**
 - [Traversing chemical space](https://github.com/molML/traversing_chem_space): active deep learning for low-data drug discovery · [Nature Computational Science](https://doi.org/10.1038/s43588-024-00697-2)
 - [Self-driving labs](https://github.com/molML/activeML-navigation-of-condensate-phases): automated navigation of condensate phase behavior · [Nature Communications](https://doi.org/10.1038/s41467-025-64617-2)
+- [Batch active learning](https://github.com/molML/batchAL-benchmark-study-paper): a systematic approach to batch active learning for material optimization · [ChemRxiv](https://doi.org/10.26434/chemrxiv.15008883/v1)
 
 **Molecular representations**
 - [STRIPES](https://github.com/molML/STRIPES): a physically interpretable symbolic language of protein–ligand interactions · [ChemRxiv](https://doi.org/10.26434/chemrxiv.15000358/v2)
