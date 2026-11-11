@@ -6,7 +6,7 @@ We develop AI methods for drug discovery at the [Eindhoven University of Technol
 
 **New deep learning approaches**
 - [S4 for de novo design](https://github.com/molML/s4-for-de-novo-drug-design): chemical language modeling with structured state space models · [Nature Communications](https://www.nature.com/articles/s41467-024-50469-9)
-- [JointMolecularModel](https://github.com/molML/JointMolecularModel): deep learning at the edge of chemical space, spotting out-of-distribution molecules · [Nature Machine Intelligence](https://www.nature.com/articles/s42256-026-01216-w)
+- [JointMolecularModel](https://github.com/molML/JointMolecularModel): ML at the edge of chemical space, spotting out-of-distribution molecules · [Nature Machine Intelligence](https://www.nature.com/articles/s42256-026-01216-w)
 - [ACER](https://github.com/molML/acer): generalizable protein–ligand co-folding · [NeurIPS 2026](https://doi.org/10.64898/2026.06.02.728568)
 
 **Tools**
