@@ -24,6 +24,6 @@ We develop AI methods for drug discovery at the [Eindhoven University of Technol
 
 **Molecular representations**
 - [STRIPES](https://github.com/molML/STRIPES): a physically interpretable symbolic language of protein–ligand interactions · [ChemRxiv](https://doi.org/10.26434/chemrxiv.15000358/v2)
-- [MATCHERS](https://github.com/molML/matchers): matrix representation of molecules that separates atom features from chemical topology
+- [MATCHERS](https://github.com/molML/matchers): a "chemistry-infused" representation bridging molecular graphs and strings · [ChemRxiv](https://doi.org/10.26434/chemrxiv.15011134/v1)
 
 Browse [all repositories](https://github.com/molML?tab=repositories) for the code of our papers.
